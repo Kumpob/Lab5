@@ -13,10 +13,13 @@ Beaver
 Bison
 Boar
 Buffalo, African
+Galago
+Camel
+Caribou
+Cat
 Cattle
 Chamois
 Cheetah
-Chicken
 Chimpanzee
 Chinchilla
 Coyote
@@ -24,24 +27,31 @@ Deer
 Dog
 Dolphin
 Donkey
+Dugong
+Echidna
+Eland
 Elephant
 Elephant seal
 Elk (wapiti)
-Emu
 Ferret
 Fox
+Gaur
+Gazelle
 Gerbil
 Giant Panda
 Giraffe
-Gnu
-Goose
+Gaur
+Gazelle
+Gerbil
+Giant Panda
+Giraffe
 Gorilla
-Goshawk
-Grouse
 Guanaco
+Guinea pig
 Hamster
 Hare
 Hedgehog
+Hippopotamus
 Horse
 Human
 Hyena
@@ -49,23 +59,29 @@ Jackal
 Jaguar
 Kangaroo
 Koala
-Lark
+Kouprey
+Kudu
+Lemur
 Leopard
 Lion
 Llama
+Loris
+Manatee
+Marten
+Meerkat
 Mink
 Mole
 Monkey
 Moose
 Mouse
 Mule
+Narwhal
 Okapi
 Opossum
 Oryx
 Otter
 Ox
 Panther
-Peafowl
 Pig
 Pony
 Porcupine
@@ -79,17 +95,23 @@ Red deer
 Red panda
 Reindeer (caribou)
 Rhinoceros
+Sea lion
+Seal
 Sheep
 Shrew
 Skunk
-Snake
-Spider
 Squirrel
-Stingray
 Tapir
 Tarsier
 Tiger
+Vicu?a
+Wallaby
 Walrus
+Water buffalo
+Weasel
+Whale
+Wolf
+Wolverine
 Wombat
 Yak
 Zebra
