@@ -1,4 +1,5 @@
-Frog
+Cobra
 Newt
 Salamander
 Toad
+Wasp
