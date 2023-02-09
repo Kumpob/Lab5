@@ -2,7 +2,7 @@ Alligator
 Cobra
 Crocodile
 Dinosaur
-Lizard
 Komodo dragon
 Snake
 Turtle
+Viper
